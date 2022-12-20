@@ -2,8 +2,6 @@
 layout: default
 altair-loader:
   altair-chart-1: "charts/cluster_altair.json"
-hv-loader:
-  hv-chart-1: ["charts/table_hv_xyz.html", 500] # second argument is the desired height
 ---
 
 # Philadelphia Cluster Analysis
