@@ -8,9 +8,13 @@ altair-loader:
 
 Different neighborhoods possess different characteristics that attract potential residents to live in those places. Whether it’s the access or distance to amenities, demographic makeup, or affordability, many choices inform people’s desire to live in certain neighborhoods of a city. This web app is a cluster analysis of Philadelphia County, Pennsylvania to help inform both current residents who may be looking to move within the city, as well as transplants looking to come to Philadelphia.
 
-## Cluster Analysis
+A cluster analysis is a machine learning technique to group together objects based on degree of similarity. We added several neighborhood, demographic, and built environment characteristics into the cluster analysis to accurately define similarities among neighborhoods. Scroll down to see a neighborhood map divided by cluster, and a plot of all neighborhoods and their values for each variable used in the cluster analysis.
 
-In this map, hover over each neighborhood to learn which cluster it belongs to, and some information about what defines that cluster.
+We hope this tool can be useful for anyone looking to move to a new neighborhood in Philly to get a general sense of neighborhood characteristics in space!
+
+## Cluster Map
+
+Hover over each neighborhood to get the name, neighborhood cluster, and cluster description of each.
 
 <div id="altair-chart-1"></div>
 
@@ -18,7 +22,8 @@ In this map, hover over each neighborhood to learn which cluster it belongs to, 
 
 ## Variable Scatterplot
 
-<!DOCTYPE html>
+Use the drop down menu to see the variables used in the analysis, and hover over scatterplot points to learn the neighborhood, cluster, and value.
+
 <html lang="en">
   <head>
       <meta charset="utf-8">
