@@ -1,21 +1,16 @@
 ---
 layout: default
 altair-loader:
-  altair-chart-1: "charts/measlesAltair.json"
+  altair-chart-1: "charts/cluster.json"
 hv-loader:
-  hv-chart-1: ["charts/measlesHvplot.html", "500"] # second argument is the desired height
-folium-loader:
-  folium-chart-1: ["charts/foliumChart.html", "400"] # second argument is the desired height
-  folium-chart-2: ["charts/percent_no_internet.html", "400"] # second argument is the desired height
+  hv-chart-1: ["charts/table.html", "500"] # second argument is the desired height
 ---
 
-# Welcome!
+# Philadelphia Cluster Analysis
 
-This single-page website demos how to display visualizations created with altair, hvplot, and folium.
+Different neighborhoods possess different characteristics that attract new residents to live in those places. Whether it’s the access or distance to amenities, demographic makeup, or affordability, many choices inform people’s desire to live in certain neighborhoods of a city. This web app is a cluster analysis of Philadelphia County, Pennsylvania to help inform both current residents who may be looking to move within the city, as well as transplants looking to come to Philadelphia.
 
-For examples of how to use markdown to style text, see this [this page](./another-page.html).
-
-# Example: Embedding Altair & Hvplot Charts
+# Cluster Analysis
 
 This section will show examples of embedding interactive charts produced using [Altair](https://altair-viz.github.io) and [Hvplot](https://hvplot.pyviz.org/).
 
