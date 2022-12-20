@@ -18,8 +18,6 @@ In this map, hover over each neighborhood to learn which cluster it belongs to, 
 
 ## Variable Scatterplot
 
-
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
