@@ -24,7 +24,6 @@ In this scatterplot, hover over each point to determine the value of each variab
 
 <div id="hv-chart-1"></div>
 
-If the drop-down menu does not appear for you, click [here](<!DOCTYPE html>
 <html lang="en">
   <head>
       <meta charset="utf-8">
