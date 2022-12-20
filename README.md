@@ -1,18 +1,5 @@
-# github-pages-single-page-starter
+# Cluster215
 
-A template for including data visualizations in a Jekyll-powered, single-page blog with Github Pages.
+Welcome to Cluster215! This project looks at every neighborhood in Philadelphia County, Pennsylvania, and clusters them together based on shared characteristics. These characteristics come from built environment and demographic data aggregated from Open Data Philly, Open Street Map, and the American Community Survey. The technique used in this project is a k-means cluster analysis that developed five clusters of 158 Philadelphia neighborhoods. Check out my web app [here!](https://jtrummler.github.io/PhillyClusters/)
 
-[DEMO](https://musa-550-fall-2022.github.io/github-pages-single-page-starter/)
-
-The template uses the Minimal Jekyll theme: more details on this theme can be found [here](https://github.com/pages-themes/minimal).
-
-## Steps
-
-- Click on the "Use this template" button to create a new repository.
-- Choose a new name for your new repository
-- Go to the Settings section of your new repository, scroll down to the "Github Pages" section, and select the "Master" as the branch to be used for GitHub pages. This will automatically build the website.
-- Customize your site
-  - Enter your site name, description, etc by editing the `_config.yml` file.
-  - You can also upload and specify your own file
-- Make changes to the `index.md` file — this is the main page of your website!
-  - Useful resource: [Markdown Cheatsheet](http://www.jekyllnow.com/Markdown-Style-Guide/)
+This project was completed by Jack Rummler as a final project for MUSA 550 (Geospatial Data Science in Python) as a part of the Masters of Urban Spatial Analytics program at the University of Pennsylvania.
