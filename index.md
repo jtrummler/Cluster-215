@@ -3,7 +3,7 @@ layout: default
 altair-loader:
   altair-chart-1: "charts/cluster.json"
 hv-loader:
-  hv-chart-1: ["charts/table.html", 1000, 1000] # second argument is the desired height
+  hv-chart-1: ["charts/table.html", 1000, 2000] # second argument is the desired height
 ---
 
 # Philadelphia Cluster Analysis
@@ -15,6 +15,8 @@ Different neighborhoods possess different characteristics that attract potential
 In this map, hover over each neighborhood to learn which cluster it belongs to, and some information about what defines that cluster.
 
 <div id="altair-chart-1"></div>
+
+
 
 # Variable Scatterplot
 
