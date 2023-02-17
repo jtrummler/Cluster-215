@@ -96,4 +96,4 @@ Use the drop down menu to see the variables used in the analysis, and hover over
   </body>
 </html>
 
-*Note that the x-axis are the neighborhoods, thus there is no relationship between the x- and y-axis, but rather showing similar values among clusters.*
+*Note that the x-axis are the neighborhoods, thus there is no relationship between the x and y axes, but rather showing similar values among clusters.*
